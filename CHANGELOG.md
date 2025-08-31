@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/stbensonimoh/release-test/compare/v1.0.0...v1.1.0) (2025-08-31)
+
+
+### Features
+
+* Add a test HTML page ([#3](https://github.com/stbensonimoh/release-test/issues/3)) ([62e22d1](https://github.com/stbensonimoh/release-test/commit/62e22d1f3aec8915d549560e7e3e13b8a2ec43d8))
+
 ## 1.0.0 (2025-08-31)
 
 
