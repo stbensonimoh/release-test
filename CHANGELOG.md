@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/stbensonimoh/release-test/compare/v1.1.0...v1.1.1) (2025-08-31)
+
+
+### Bug Fixes
+
+* Fix Issue with Header ([feecc46](https://github.com/stbensonimoh/release-test/commit/feecc46d28a6be59fd388a6a962e008e9cadf9fb))
+
 ## [1.1.0](https://github.com/stbensonimoh/release-test/compare/v1.0.0...v1.1.0) (2025-08-31)
 
 
